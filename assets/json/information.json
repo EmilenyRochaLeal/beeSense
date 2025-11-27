@@ -1,0 +1,23 @@
+[
+    {
+        "image": "assets/images/melImage.jpg",
+        "title": "Mel de melhor qualidade",
+        "description": "A seletividade alimentar das abelhas sem ferrão não resulta necessariamente em um mel 'mais puro', mas sim em um mel com características sensoriais e de composição singulares e muito valorizadas, que variam de acordo com as fontes de néctar que elas escolhem",
+        "data": "07/09/2025",
+        "time": "15:45"
+    },
+    {
+        "image": "assets/images/caixaImage.jpg",
+        "title": "Montagem da isca",
+        "description": "A estrutura da isca afeta diretamente o índice de captura de abelhas sem ferrão. As abelhas escoteiras procuram locais que simulem o máximo possível um oco natural de árvore, e as características físicas da isca (tamanho, isolamento térmico, proteção contra luz e umidade, e tipo de entrada) são cruciais para atraí-las. ",
+        "data": "22/08/2025",
+        "time": "12:12"
+    },
+    {
+        "image": "assets/images/abelhaImage.jpg",
+        "title": "Saúde das abelhas",
+        "description": "A proliferação e produção de mel está diretamente relacionada à saúde das colônias. Fatores como a disponibilidade de recursos florais, condições ambientais, manejo adequado e ausência de doenças ou parasitas são essenciais para garantir o bem-estar das abelhas sem ferrão e a qualidade do mel produzido.",
+        "data": "17/08/2025",
+        "time": "23:51"
+    }
+]
