@@ -40,8 +40,8 @@ class HomeContent extends StatelessWidget {
           ),
           SizedBox(height: 18),
           SizedBox(
-            // width: MediaQuery.of(context).size.width * .9, 
-            height: heightBody * .25, 
+            width: MediaQuery.of(context).size.width, 
+            height: heightBody * 0.25, 
             child: const Carrossel()
             ),
           SizedBox(height: 12),
